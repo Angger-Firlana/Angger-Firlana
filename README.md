@@ -76,15 +76,15 @@
 ## 📊 Battle Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggerkun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angger-Firlana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggerkun&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angger-Firlana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anggerkun&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angger-Firlana&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" />
 </div>
 
 ## 🎌 Recent Missions
@@ -186,14 +186,14 @@ PHP           █████████████████░░░ 80%
 ## 🏮 Contact This Hashira
 
 <div align="center">
-  <a href="https://github.com/anggerkun">
-    <img src="https://img.shields.io/badge/GitHub-Anggerkun-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Angger-Firlana">
+    <img src="https://img.shields.io/badge/GitHub-Angger--Firlana-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/angger-firlana-67693632b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Angger_Firlana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Email-Demon_Slayer-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/yourprofile">
     <img src="https://img.shields.io/badge/Instagram-Lifestyle-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -201,5 +201,11 @@ PHP           █████████████████░░░ 80%
   
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=anggerkun&color=red&style=for-the-badge&label=Demons+Defeated" />
+  <img src="https://komarev.com/ghpvc/?username=Angger-Firlana&color=red&style=for-the-badge&label=Demons+Defeated" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=ありがとうございます&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </div>
