@@ -2,10 +2,9 @@
 
 # Angger Firlana
 
-💻 Software Developer  
-⚙️ Backend • Mobile • API Development
+### Software Developer
 
-Building reliable applications with clean architecture and scalable systems.
+Backend • Mobile • API Development
 
 </div>
 
@@ -14,68 +13,104 @@ Building reliable applications with clean architecture and scalable systems.
 # 👨‍💻 About Me
 
 - 🎓 Student at **SMKN 24 Jakarta**
-- 💡 Interested in **Backend Development & Mobile Applications**
-- 🧠 Passionate about **system architecture and problem solving**
-- 🛠 Main stack: **C# • Kotlin • PHP**
-- 📈 Always improving coding skills and learning new technologies
+- 💻 Focused on **Backend Development & Mobile Apps**
+- 🧠 Interested in **system architecture & scalable systems**
+- ⚙️ Main languages: **C# • Kotlin • PHP**
+- 🚀 Passionate about building reliable software
 
 ---
 
 # 🧰 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,kotlin,php,js" />
+</p>
+
 ### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,spring" />
+</p>
 
 ### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=android,kotlin,firebase" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,gradle,maven" />
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Angger-Firlana&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angger-Firlana&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+# 📈 GitHub Activity Graph
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Angger-Firlana&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angger-Firlana&theme=tokyo-night"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### E-Commerce Platform
-Tech: React, Spring Boot, MySQL  
+### 🛒 E-Commerce Platform
+React • Spring Boot • MySQL  
 Full stack e-commerce system with authentication and product management.
 
-### Mobile Banking App
-Tech: Kotlin, Firebase, Room  
-Android application prototype with secure login and transaction management.
+### 📱 Mobile Banking App
+Kotlin • Firebase • Room  
+Android banking prototype with secure transaction system.
 
-### API Gateway
-Tech: Spring Boot, JWT  
-Centralized authentication service for multiple APIs.
+### 🔐 API Gateway
+Spring Boot • JWT Security  
+Centralized authentication for multiple services.
 
-### Thermal Printer Integration
-Tech: Android, SDK Printer  
-Mobile system integrated with thermal printer hardware.
+### 🖨 Thermal Printer Integration
+Android • Thermal SDK  
+Mobile application integrated with thermal printer hardware.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Angger-Firlana/Angger-Firlana/output/snake.svg" />
+</p>
+
+---
+
+# 📌 Pinned Projects
+
+<p align="center">
+
+<a href="https://github.com/Angger-Firlana">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angger-Firlana&repo=repo-name&theme=tokyonight"/>
+</a>
+
+</p>
 
 ---
 
@@ -84,15 +119,11 @@ Mobile system integrated with thermal printer hardware.
 <p align="center">
 
 <a href="https://github.com/Angger-Firlana">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/angger-firlana-67693632b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:angger.firlana56@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
@@ -101,6 +132,6 @@ Mobile system integrated with thermal printer hardware.
 
 <div align="center">
 
-⭐ *Always learning. Always building.*
+⭐ Always learning. Always building.
 
 </div>
